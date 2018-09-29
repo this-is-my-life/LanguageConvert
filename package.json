@@ -1,0 +1,19 @@
+{
+  "name": "language-convert",
+  "version": "0.1.0",
+  "description": "Just Convert Korean to C Language",
+  "main": "CORE.zip",
+  "scripts": {
+    "test": "nw CORE.zip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PMHStudio/LanguageConvert.git"
+  },
+  "author": "PMH Studio / PMH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PMHStudio/LanguageConvert/issues"
+  },
+  "homepage": "https://github.com/PMHStudio/LanguageConvert#readme"
+}
